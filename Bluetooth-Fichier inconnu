@@ -1,0 +1,7 @@
+-on ouvre dans Wireshark 
+-on clique sur Wireless dans la barre d'outils
+-puis on clique sur "Equipement bluetooth"
+-on copie :BD_ADDR (on transforme en majuscule les minuscules ) et son nom 
+
+0C:B3:19:B9:4F:C6GT-S7390G                                                                                                                                                                 
+-on decode et le mot de passe s'affiche
